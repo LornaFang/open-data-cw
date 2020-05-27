@@ -6,7 +6,8 @@
         "Recovered": "7951",
         "Active": "5617",
         "Incident_Rate": "287.9148961",
-        "People_Tested": "182676"
+        "People_Tested": "182676",
+        "ISO3": "AL"
     },
     {
         "Province_State": "Alaska",
@@ -15,7 +16,8 @@
         "Recovered": "358",
         "Active": "39",
         "Incident_Rate": "55.63567518",
-        "People_Tested": "42351"
+        "People_Tested": "42351",
+        "ISO3": "AK"
     },
     {
         "Province_State": "American Samoa",
@@ -24,7 +26,8 @@
         "Recovered": "",
         "Active": "0",
         "Incident_Rate": "0",
-        "People_Tested": "124"
+        "People_Tested": "124",
+        "ISO3": "AS"
     },
     {
         "Province_State": "Arizona",
@@ -33,7 +36,8 @@
         "Recovered": "4033",
         "Active": "11219",
         "Incident_Rate": "220.5471102",
-        "People_Tested": "180439"
+        "People_Tested": "180439",
+        "ISO3": "AZ"
     },
     {
         "Province_State": "Arkansas",
@@ -42,7 +46,8 @@
         "Recovered": "4029",
         "Active": "1631",
         "Incident_Rate": "191.3643166",
-        "People_Tested": "103047"
+        "People_Tested": "103047",
+        "ISO3": "AR"
     },
     {
         "Province_State": "California",
@@ -51,7 +56,8 @@
         "Recovered": "",
         "Active": "88801",
         "Incident_Rate": "234.2034767",
-        "People_Tested": "1515306"
+        "People_Tested": "1515306",
+        "ISO3": "CA"
     },
     {
         "Province_State": "Colorado",
@@ -60,7 +66,8 @@
         "Recovered": "3612",
         "Active": "19025",
         "Incident_Rate": "416.1329847",
-        "People_Tested": "144952"
+        "People_Tested": "144952",
+        "ISO3": "CO"
     },
     {
         "Province_State": "Connecticut",
@@ -69,7 +76,8 @@
         "Recovered": "7127",
         "Active": "29220",
         "Incident_Rate": "1122.546376",
-        "People_Tested": "208367"
+        "People_Tested": "208367",
+        "ISO3": "CT"
     },
     {
         "Province_State": "Delaware",
@@ -78,7 +86,8 @@
         "Recovered": "4454",
         "Active": "3753",
         "Incident_Rate": "875.8795766",
-        "People_Tested": "50534"
+        "People_Tested": "50534",
+        "ISO3": "DE"
     },
     {
         "Province_State": "Diamond Princess",
@@ -96,7 +105,8 @@
         "Recovered": "1075",
         "Active": "6464",
         "Incident_Rate": "1128.729903",
-        "People_Tested": "51991"
+        "People_Tested": "51991",
+        "ISO3": "DC"
     },
     {
         "Province_State": "Florida",
@@ -105,7 +115,8 @@
         "Recovered": "",
         "Active": "47894",
         "Incident_Rate": "233.3905104",
-        "People_Tested": "856437"
+        "People_Tested": "856437",
+        "ISO3": "FL"
     },
     {
         "Province_State": "Georgia",
@@ -114,16 +125,8 @@
         "Recovered": "",
         "Active": "40420",
         "Incident_Rate": "397.8554872",
-        "People_Tested": "453537"
-    },
-    {
-        "Province_State": "Grand Princess",
-        "Confirmed": "103",
-        "Deaths": "3",
-        "Recovered": "",
-        "Active": "100",
-        "Incident_Rate": "",
-        "People_Tested": ""
+        "People_Tested": "453537",
+        "ISO3": "GA"
     },
     {
         "Province_State": "Guam",
@@ -132,7 +135,8 @@
         "Recovered": "134",
         "Active": "26",
         "Incident_Rate": "100.4694664",
-        "People_Tested": "5359"
+        "People_Tested": "5359",
+        "ISO3": "GU"
     },
     {
         "Province_State": "Hawaii",
@@ -141,7 +145,8 @@
         "Recovered": "585",
         "Active": "41",
         "Incident_Rate": "45.41370971",
-        "People_Tested": "48821"
+        "People_Tested": "48821",
+        "ISO3": "HI"
     },
     {
         "Province_State": "Idaho",
@@ -150,7 +155,8 @@
         "Recovered": "1735",
         "Active": "781",
         "Incident_Rate": "145.210163",
-        "People_Tested": "40609"
+        "People_Tested": "40609",
+        "ISO3": "ID"
     },
     {
         "Province_State": "Illinois",
@@ -159,7 +165,8 @@
         "Recovered": "",
         "Active": "103006",
         "Incident_Rate": "850.6748951",
-        "People_Tested": "722247"
+        "People_Tested": "722247",
+        "ISO3": "IL"
     },
     {
         "Province_State": "Indiana",
@@ -168,7 +175,8 @@
         "Recovered": "",
         "Active": "28937",
         "Incident_Rate": "459.0017051",
-        "People_Tested": "214933"
+        "People_Tested": "214933",
+        "ISO3": "IN"
     },
     {
         "Province_State": "Iowa",
@@ -177,7 +185,8 @@
         "Recovered": "9254",
         "Active": "7198",
         "Incident_Rate": "535.5824118",
-        "People_Tested": "123941"
+        "People_Tested": "123941",
+        "ISO3": "IA"
     },
     {
         "Province_State": "Kansas",
@@ -186,7 +195,8 @@
         "Recovered": "485",
         "Active": "8256",
         "Incident_Rate": "307.072976",
-        "People_Tested": "76434"
+        "People_Tested": "76434",
+        "ISO3": "KS"
     },
     {
         "Province_State": "Kentucky",
@@ -195,7 +205,8 @@
         "Recovered": "3069",
         "Active": "5111",
         "Incident_Rate": "191.8448373",
-        "People_Tested": "171459"
+        "People_Tested": "171459",
+        "ISO3": "KY"
     },
     {
         "Province_State": "Louisiana",
@@ -204,7 +215,8 @@
         "Recovered": "26249",
         "Active": "8008",
         "Incident_Rate": "794.292025",
-        "People_Tested": "314447"
+        "People_Tested": "314447",
+        "ISO3": "LA"
     },
     {
         "Province_State": "Maine",
@@ -213,7 +225,8 @@
         "Recovered": "1232",
         "Active": "704",
         "Incident_Rate": "149.7531639",
-        "People_Tested": "37463"
+        "People_Tested": "37463",
+        "ISO3": "ME"
     },
     {
         "Province_State": "Maryland",
@@ -222,7 +235,8 @@
         "Recovered": "3283",
         "Active": "39969",
         "Incident_Rate": "752.5208082",
-        "People_Tested": "232327"
+        "People_Tested": "232327",
+        "ISO3": "MD"
     },
     {
         "Province_State": "Massachusetts",
@@ -231,7 +245,8 @@
         "Recovered": "",
         "Active": "85358",
         "Incident_Rate": "1329.879726",
-        "People_Tested": "520986"
+        "People_Tested": "520986",
+        "ISO3": "MA"
     },
     {
         "Province_State": "Michigan",
@@ -240,7 +255,8 @@
         "Recovered": "33168",
         "Active": "15974",
         "Incident_Rate": "544.3654595",
-        "People_Tested": "450918"
+        "People_Tested": "450918",
+        "ISO3": "MI"
     },
     {
         "Province_State": "Minnesota",
@@ -249,7 +265,8 @@
         "Recovered": "13485",
         "Active": "5499",
         "Incident_Rate": "351.884662",
-        "People_Tested": "189493"
+        "People_Tested": "189493",
+        "ISO3": "MN"
     },
     {
         "Province_State": "Mississippi",
@@ -258,7 +275,8 @@
         "Recovered": "7681",
         "Active": "4708",
         "Incident_Rate": "436.9740897",
-        "People_Tested": "134220"
+        "People_Tested": "134220",
+        "ISO3": "MS"
     },
     {
         "Province_State": "Missouri",
@@ -267,7 +285,8 @@
         "Recovered": "",
         "Active": "11284",
         "Incident_Rate": "194.967664",
-        "People_Tested": "148304"
+        "People_Tested": "148304",
+        "ISO3": "MO"
     },
     {
         "Province_State": "Montana",
@@ -276,7 +295,8 @@
         "Recovered": "441",
         "Active": "22",
         "Incident_Rate": "44.81753928",
-        "People_Tested": "32652"
+        "People_Tested": "32652",
+        "ISO3": "MT"
     },
     {
         "Province_State": "Nebraska",
@@ -285,7 +305,8 @@
         "Recovered": "",
         "Active": "11816",
         "Incident_Rate": "618.4320991",
-        "People_Tested": "79982"
+        "People_Tested": "79982",
+        "ISO3": "NE"
     },
     {
         "Province_State": "Nevada",
@@ -294,7 +315,8 @@
         "Recovered": "359",
         "Active": "6780",
         "Incident_Rate": "244.3382738",
-        "People_Tested": "107047"
+        "People_Tested": "107047",
+        "ISO3": "NV"
     },
     {
         "Province_State": "New Hampshire",
@@ -303,7 +325,8 @@
         "Recovered": "2197",
         "Active": "1684",
         "Incident_Rate": "300.7256689",
-        "People_Tested": "59539"
+        "People_Tested": "59539",
+        "ISO3": "NH"
     },
     {
         "Province_State": "New Jersey",
@@ -312,7 +335,8 @@
         "Recovered": "24762",
         "Active": "117296",
         "Incident_Rate": "1724.124343",
-        "People_Tested": "578735"
+        "People_Tested": "578735",
+        "ISO3": "NJ"
     },
     {
         "Province_State": "New Mexico",
@@ -321,7 +345,8 @@
         "Recovered": "2149",
         "Active": "4174",
         "Incident_Rate": "315.9532799",
-        "People_Tested": "158383"
+        "People_Tested": "158383",
+        "ISO3": "NM"
     },
     {
         "Province_State": "New York",
@@ -330,7 +355,8 @@
         "Recovered": "63292",
         "Active": "267603",
         "Incident_Rate": "1850.18054",
-        "People_Tested": "1652061"
+        "People_Tested": "1652061",
+        "ISO3": "NY"
     },
     {
         "Province_State": "North Carolina",
@@ -339,7 +365,8 @@
         "Recovered": "11637",
         "Active": "10449",
         "Incident_Rate": "217.9997796",
-        "People_Tested": "329582"
+        "People_Tested": "329582",
+        "ISO3": "NC"
     },
     {
         "Province_State": "North Dakota",
@@ -348,7 +375,8 @@
         "Recovered": "1451",
         "Active": "862",
         "Incident_Rate": "310.3422031",
-        "People_Tested": "64148"
+        "People_Tested": "64148",
+        "ISO3": "ND"
     },
     {
         "Province_State": "Northern Mariana Islands",
@@ -357,7 +385,8 @@
         "Recovered": "13",
         "Active": "7",
         "Incident_Rate": "39.89554621",
-        "People_Tested": "4318"
+        "People_Tested": "4318",
+        "ISO3": "MP"
     },
     {
         "Province_State": "Ohio",
@@ -366,7 +395,8 @@
         "Recovered": "",
         "Active": "29452",
         "Incident_Rate": "268.6947669",
-        "People_Tested": "316494"
+        "People_Tested": "316494",
+        "ISO3": "OH"
     },
     {
         "Province_State": "Oklahoma",
@@ -375,7 +405,8 @@
         "Recovered": "4645",
         "Active": "1004",
         "Incident_Rate": "150.6202598",
-        "People_Tested": "160903"
+        "People_Tested": "160903",
+        "ISO3": "OK"
     },
     {
         "Province_State": "Oregon",
@@ -384,7 +415,8 @@
         "Recovered": "1376",
         "Active": "2365",
         "Incident_Rate": "92.18213464",
-        "People_Tested": "110207"
+        "People_Tested": "110207",
+        "ISO3": "OR"
     },
     {
         "Province_State": "Pennsylvania",
@@ -393,7 +425,8 @@
         "Recovered": "39519",
         "Active": "26378",
         "Incident_Rate": "554.6716217",
-        "People_Tested": "388452"
+        "People_Tested": "388452",
+        "ISO3": "PA"
     },
     {
         "Province_State": "Puerto Rico",
@@ -402,7 +435,8 @@
         "Recovered": "",
         "Active": "2973",
         "Incident_Rate": "105.6791282",
-        "People_Tested": "3100"
+        "People_Tested": "3100",
+        "ISO3": "PR"
     },
     {
         "Province_State": "Rhode Island",
@@ -411,7 +445,8 @@
         "Recovered": "1106",
         "Active": "12249",
         "Incident_Rate": "1317.020355",
-        "People_Tested": "130132"
+        "People_Tested": "130132",
+        "ISO3": "RI"
     },
     {
         "Province_State": "South Carolina",
@@ -420,7 +455,8 @@
         "Recovered": "5743",
         "Active": "3727",
         "Incident_Rate": "192.1839123",
-        "People_Tested": "158910"
+        "People_Tested": "158910",
+        "ISO3": "SC"
     },
     {
         "Province_State": "South Dakota",
@@ -429,7 +465,8 @@
         "Recovered": "3336",
         "Active": "1078",
         "Incident_Rate": "504.6012079",
-        "People_Tested": "33528"
+        "People_Tested": "33528",
+        "ISO3": "SD"
     },
     {
         "Province_State": "Tennessee",
@@ -438,7 +475,8 @@
         "Recovered": "12745",
         "Active": "6711",
         "Incident_Rate": "289.7129287",
-        "People_Tested": "373758"
+        "People_Tested": "373758",
+        "ISO3": "TN"
     },
     {
         "Province_State": "Texas",
@@ -447,7 +485,8 @@
         "Recovered": "32277",
         "Active": "21021",
         "Incident_Rate": "188.9095903",
-        "People_Tested": "762706"
+        "People_Tested": "762706",
+        "ISO3": "TX"
     },
     {
         "Province_State": "Utah",
@@ -456,7 +495,8 @@
         "Recovered": "4898",
         "Active": "3265",
         "Incident_Rate": "257.6452967",
-        "People_Tested": "190779"
+        "People_Tested": "190779",
+        "ISO3": "UT"
     },
     {
         "Province_State": "Vermont",
@@ -465,7 +505,8 @@
         "Recovered": "837",
         "Active": "63",
         "Incident_Rate": "152.8873105",
-        "People_Tested": "27424"
+        "People_Tested": "27424",
+        "ISO3": "VT"
     },
     {
         "Province_State": "Virgin Islands",
@@ -474,7 +515,8 @@
         "Recovered": "61",
         "Active": "2",
         "Incident_Rate": "64.32486855",
-        "People_Tested": "1412"
+        "People_Tested": "1412",
+        "ISO3": "VI"
     },
     {
         "Province_State": "Virginia",
@@ -483,7 +525,8 @@
         "Recovered": "5047",
         "Active": "29543",
         "Incident_Rate": "418.8263186",
-        "People_Tested": "232470"
+        "People_Tested": "232470",
+        "ISO3": "VA"
     },
     {
         "Province_State": "Washington",
@@ -492,7 +535,8 @@
         "Recovered": "",
         "Active": "18215",
         "Incident_Rate": "252.9910795",
-        "People_Tested": "308358"
+        "People_Tested": "308358",
+        "ISO3": "WA"
     },
     {
         "Province_State": "West Virginia",
@@ -501,7 +545,8 @@
         "Recovered": "1110",
         "Active": "523",
         "Incident_Rate": "95.13728506",
-        "People_Tested": "83744"
+        "People_Tested": "83744",
+        "ISO3": "WV"
     },
     {
         "Province_State": "Wisconsin",
@@ -510,7 +555,8 @@
         "Recovered": "8688",
         "Active": "5682",
         "Incident_Rate": "255.5116984",
-        "People_Tested": "194206"
+        "People_Tested": "194206",
+        "ISO3": "WI"
     },
     {
         "Province_State": "Wyoming",
@@ -519,6 +565,7 @@
         "Recovered": "551",
         "Active": "250",
         "Incident_Rate": "140.4729775",
-        "People_Tested": "20034"
+        "People_Tested": "20034",
+        "ISO3": "WY"
     }
 ]
